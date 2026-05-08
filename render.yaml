@@ -76,7 +76,6 @@ services:
   - type: web
     name: allihtech-frontend
     env: static
-    plan: free
     rootDir: frontend
     buildCommand: npm ci && npm run build
     staticPublishPath: ./dist
