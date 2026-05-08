@@ -44,9 +44,7 @@ services:
       - key: DJANGO_ALLOWED_HOSTS
         value: allihtech-api.onrender.com,allihtech.com,www.allihtech.com,api.allihtech.com
       - key: DATABASE_URL
-        fromDatabase:
-          name: allihtech-db
-          property: connectionString
+        sync: false   # Coller l'URL Neon : postgresql://user:pass@host/db?sslmode=require
       - key: REDIS_URL
         fromService:
           type: redis
@@ -125,10 +123,4 @@ services:
     maxmemoryPolicy: allkeys-lru
     ipAllowList: []          # Accès uniquement depuis les services internes
 
-databases:
-  # ── PostgreSQL 16 ───────────────────────────────────────────────────────────
-  - name: allihtech-db
-    databaseName: allihtech_db
-    user: allihtech
-    plan: free
-    region: frankfurt
+# Base de données gérée sur Neon (neon.tech) — DATABASE_URL défini manuellement ci-dessus
