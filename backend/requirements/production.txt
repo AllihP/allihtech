@@ -1,0 +1,3 @@
+﻿-r base.txt
+psycopg2-binary>=2.9
+django-redis>=5.4

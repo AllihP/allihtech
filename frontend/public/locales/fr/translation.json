@@ -1,0 +1,261 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "public": "Institution Publique",
+    "private": "Institution Privée",
+    "formations": "Formations",
+    "blog": "Blog",
+    "actualites": "Actualités",
+    "contact": "Contact",
+    "partenaires": "Partenaires",
+    "menu": "Menu"
+  },
+  "hero": {
+    "badge": "Innovation Numérique au Tchad",
+    "title": "Solutions numériques pour l'Afrique",
+    "title_highlight": "",
+    "subtitle": "AllihTech accompagne les institutions publiques et privées dans leur mutation numérique avec des solutions sur mesure, modernes et sécurisées.",
+    "cta_public": "Institution Publique",
+    "cta_private": "Institution Privée",
+    "cta_contact": "Nous contacter",
+    "scroll_down": "Découvrir"
+  },
+  "stats": {
+    "projects": "Projets Livrés",
+    "clients": "Clients Satisfaits",
+    "years": "Années d'Expérience",
+    "experts": "Experts Dédiés"
+  },
+  "about": {
+    "tag": "À propos",
+    "title": "L'innovation technologique au service du développement africain",
+    "text": "AllihTech est une entreprise technologique tchadienne fondée avec la conviction que l'Afrique mérite des solutions numériques de classe mondiale. Nous combinons expertise locale et standards internationaux pour livrer des projets qui transforment durablement les organisations.",
+    "values": {
+      "excellence": "Excellence",
+      "innovation": "Innovation",
+      "trust": "Confiance",
+      "local": "Ancrage Local"
+    }
+  },
+  "services": {
+    "tag": "Nos Services",
+    "title": "Des solutions adaptées à chaque besoin",
+    "subtitle": "De la stratégie à l'exécution, nous couvrons l'ensemble de votre parcours de transformation digitale.",
+    "digital": {
+      "title": "Transformation Digitale",
+      "desc": "Accompagnement stratégique pour moderniser vos processus et systèmes d'information."
+    },
+    "dev": {
+      "title": "Développement Logiciel",
+      "desc": "Applications web et mobile sur mesure avec les technologies les plus récentes."
+    },
+    "training": {
+      "title": "Formations",
+      "desc": "Programmes de formation certifiants pour développer les compétences numériques de vos équipes."
+    },
+    "consulting": {
+      "title": "Conseil Stratégique",
+      "desc": "Audit, analyse et recommandations pour optimiser votre système d'information."
+    },
+    "cloud": {
+      "title": "Infrastructure Cloud",
+      "desc": "Déploiement, migration et gestion d'infrastructures cloud sécurisées et performantes."
+    },
+    "ai": {
+      "title": "Intelligence Artificielle",
+      "desc": "Intégration de solutions IA pour automatiser et optimiser vos opérations métiers."
+    },
+    "view_all": "Voir tous les services"
+  },
+  "ceo": {
+    "tag": "Vision du Dirigeant",
+    "quote": "Notre mission est de mettre la technologie au service du progrès africain. Chaque solution que nous livrons contribue à bâtir un Tchad plus compétitif, plus efficace et plus connecté au monde.",
+    "name": "Hilla Prince BAMBE",
+    "role": "CEO & Président — AllihTech"
+  },
+  "team": {
+    "tag": "Notre Équipe",
+    "title": "Les experts qui font AllihTech",
+    "subtitle": "Une équipe pluridisciplinaire réunie autour d'une vision commune : l'excellence technologique au service de l'Afrique.",
+    "members": {
+      "hilla": { "name": "Hilla Prince BAMBE", "role": "CEO / Président" },
+      "alexandre": { "name": "Alexandre Ndeyina", "role": "Directeur Commercial" },
+      "ziakraba": { "name": "Ignagali Ziakraba K.", "role": "R&D & Innovation" },
+      "feli": { "name": "Félicité Ndob", "role": "Communication" },
+      "dieuleveut": { "name": "Aldodé Dieu Le Veut", "role": "Finance" },
+      "emmanuel": { "name": "Emmanuel Hégire", "role": "Partenariats" },
+      "gloire": { "name": "Bélem Gloire", "role": "Product Manager" }
+    }
+  },
+  "partners": {
+    "tag": "Partenaires",
+    "title": "Un écosystème de confiance",
+    "subtitle": "Nous collaborons avec des acteurs locaux et internationaux pour vous offrir les meilleures solutions.",
+    "view_all": "Voir tous les partenaires",
+    "types": {
+      "tech": "Partenaires Technologiques",
+      "institutional": "Partenaires Institutionnels",
+      "academic": "Partenaires Académiques"
+    }
+  },
+  "cta": {
+    "title": "Prêt à transformer votre organisation ?",
+    "subtitle": "Discutons de vos besoins et construisons ensemble la solution qui vous correspond.",
+    "btn_contact": "Démarrer un projet",
+    "btn_discover": "Découvrir nos services",
+    "phone": "+235 60 92 87 48",
+    "email": "contact@allihtech.com"
+  },
+  "public_page": {
+    "hero_title": "Partenaire de la modernisation de l'État tchadien",
+    "hero_subtitle": "AllihTech accompagne les institutions publiques dans leur transformation digitale avec des solutions conformes aux standards internationaux.",
+    "vision_tag": "Vision & Positionnement",
+    "vision_title": "Pourquoi choisir AllihTech pour le secteur public ?",
+    "methodology_tag": "Méthodologie",
+    "methodology_title": "Une approche structurée en 4 phases",
+    "impact_tag": "Impact",
+    "impact_title": "Pourquoi AllihTech ?",
+    "financial_tag": "Modèle Financier",
+    "financial_title": "Transparence et maîtrise budgétaire",
+    "phases": {
+      "audit": { "title": "Audit & Diagnostic", "desc": "Analyse exhaustive de l'existant, identification des axes d'amélioration et définition des priorités." },
+      "design": { "title": "Conception", "desc": "Architecture des solutions, choix technologiques, maquettage et validation avec les parties prenantes." },
+      "deploy": { "title": "Déploiement", "desc": "Livraison par sprints agiles, tests rigoureux et mise en production progressive avec accompagnement." },
+      "support": { "title": "Support & Évolution", "desc": "Maintenance préventive, formation continue des équipes et évolutions fonctionnelles planifiées." }
+    }
+  },
+  "private_page": {
+    "hero_title": "Accélérez la croissance de votre entreprise",
+    "hero_subtitle": "Des solutions numériques sur mesure pour les PME, grandes entreprises et startups qui veulent gagner en compétitivité.",
+    "solutions_tag": "Solutions Enterprise",
+    "solutions_title": "Tout ce dont votre entreprise a besoin",
+    "process_tag": "Notre Processus",
+    "process_title": "5 étapes vers votre succès",
+    "pricing_tag": "Tarification",
+    "pricing_title": "Des offres adaptées à votre taille",
+    "tech_tag": "Stack Technique",
+    "tech_title": "Technologies de pointe",
+    "results_tag": "Résultats",
+    "results_title": "Ce que nos clients obtiennent",
+    "partnership_tag": "Partenariats",
+    "partnership_title": "Devenez partenaire AllihTech",
+    "pricing_plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "À partir de 500 000 FCFA",
+        "features": ["Site web professionnel", "Application mobile basique", "Maintenance 3 mois", "Support par email"]
+      },
+      "pro": {
+        "name": "Pro Max",
+        "badge": "Recommandé",
+        "price": "À partir de 2 000 000 FCFA",
+        "features": ["Application web/mobile sur mesure", "API REST sécurisée", "Dashboard analytique", "Formation équipe", "Maintenance 12 mois", "Support prioritaire"]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Sur devis",
+        "features": ["Solution complète sur mesure", "Infrastructure cloud dédiée", "Intégration IA", "Équipe dédiée", "SLA garanti", "Accompagnement stratégique"]
+      }
+    }
+  },
+  "formations_page": {
+    "hero_title": "Développez les compétences numériques de vos équipes",
+    "hero_subtitle": "Des programmes de formation certifiants conçus par des experts, adaptés aux réalités du marché africain.",
+    "tag": "Nos Formations",
+    "title": "Catalogue de formations",
+    "courses": {
+      "web": { "title": "Développement Web Full Stack", "duration": "3 mois", "level": "Débutant à Avancé", "desc": "Maîtrisez React, Django et les APIs REST pour créer des applications web modernes." },
+      "mobile": { "title": "Développement Mobile Flutter", "duration": "2 mois", "level": "Intermédiaire", "desc": "Créez des applications iOS et Android avec Flutter et Dart." },
+      "data": { "title": "Data Science & IA", "duration": "4 mois", "level": "Intermédiaire", "desc": "Python, Machine Learning et déploiement de modèles IA en production." },
+      "cloud": { "title": "Cloud & DevOps", "duration": "2 mois", "level": "Avancé", "desc": "AWS, Docker, Kubernetes et pipelines CI/CD pour des déploiements sécurisés." },
+      "digital": { "title": "Marketing Digital", "duration": "1 mois", "level": "Tous niveaux", "desc": "Stratégie digitale, SEO, réseaux sociaux et analytics pour booster votre visibilité." },
+      "management": { "title": "Gestion de Projet Agile", "duration": "3 semaines", "level": "Tous niveaux", "desc": "Scrum, Kanban et outils modernes pour piloter vos projets avec efficacité." }
+    }
+  },
+  "blog_page": {
+    "tag": "Blog",
+    "title": "Insights & Expertise",
+    "subtitle": "Articles, analyses et retours d'expérience sur la transformation digitale en Afrique.",
+    "read_more": "Lire la suite",
+    "categories": {
+      "all": "Tous",
+      "tech": "Technologie",
+      "strategy": "Stratégie",
+      "case_study": "Cas Client"
+    }
+  },
+  "actualites_page": {
+    "tag": "Actualités",
+    "title": "Dernières nouvelles d'AllihTech",
+    "subtitle": "Suivez nos projets, partenariats et événements.",
+    "read_more": "En savoir plus"
+  },
+  "contact_page": {
+    "tag": "Contact",
+    "title": "Parlons de votre projet",
+    "subtitle": "Notre équipe est disponible pour répondre à toutes vos questions et vous accompagner dans vos projets.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "phone": "Téléphone (optionnel)",
+      "organization": "Organisation (optionnel)",
+      "service": "Service souhaité",
+      "message": "Votre message",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours…",
+      "success": "Message envoyé ! Nous vous répondrons dans les 24h.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    },
+    "info": {
+      "address": "N'Djamena, Tchad",
+      "phone": "+235 60 92 87 48",
+      "email": "contact@allihtech.com",
+      "hours": "Lun–Ven : 8h–18h"
+    }
+  },
+  "partenaires_page": {
+    "tag": "Partenaires",
+    "title": "Notre écosystème de partenaires",
+    "subtitle": "Des alliances stratégiques pour vous offrir les meilleures solutions.",
+    "become_partner": "Devenir partenaire",
+    "types": {
+      "tech": { "title": "Partenaires Technologiques", "desc": "Fournisseurs de solutions logicielles et cloud." },
+      "institutional": { "title": "Partenaires Institutionnels", "desc": "Organisations publiques et ONG partenaires." },
+      "academic": { "title": "Partenaires Académiques", "desc": "Universités et centres de formation." },
+      "strategic": { "title": "Partenaires Stratégiques", "desc": "Cabinets de conseil et intégrateurs." }
+    }
+  },
+  "privacy_page": {
+    "title": "Politique de Confidentialité",
+    "last_updated": "Dernière mise à jour : Juillet 2024"
+  },
+  "terms_page": {
+    "title": "Conditions Générales d'Utilisation",
+    "last_updated": "Dernière mise à jour : Juillet 2024"
+  },
+  "location_page": {
+    "tag": "Localisation",
+    "title": "Nous trouver",
+    "subtitle": "AllihTech est basée à N'Djamena, la capitale du Tchad.",
+    "address": "N'Djamena, République du Tchad"
+  },
+  "footer": {
+    "tagline": "L'innovation numérique au service de l'Afrique.",
+    "company": "Entreprise",
+    "legal": "Légal",
+    "follow_us": "Nous suivre",
+    "privacy": "Confidentialité",
+    "terms": "Conditions d'utilisation",
+    "rights": "Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement…",
+    "error_404": "Page introuvable",
+    "back_home": "Retour à l'accueil",
+    "learn_more": "En savoir plus",
+    "contact_us": "Nous contacter",
+    "discover": "Découvrir",
+    "our_services": "Nos Services"
+  }
+}

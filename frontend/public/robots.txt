@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Protéger l'admin et l'API
+Disallow: /admin/
+Disallow: /api/
+Disallow: /static/
+Disallow: /media/
+
+# Sitemap
+Sitemap: https://allihtech.com/sitemap.xml

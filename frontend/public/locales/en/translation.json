@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "public": "Public Institution",
+    "private": "Private Institution",
+    "formations": "Training",
+    "blog": "Blog",
+    "actualites": "News",
+    "contact": "Contact",
+    "partenaires": "Partners",
+    "menu": "Menu"
+  },
+  "hero": {
+    "badge": "Digital Innovation in Chad",
+    "title": "Digital solutions for Africa",
+    "title_highlight": "",
+    "subtitle": "AllihTech supports public and private institutions in their digital transition with tailored, modern, and secure solutions.",
+    "cta_public": "Public Institution",
+    "cta_private": "Private Institution",
+    "cta_contact": "Contact us",
+    "scroll_down": "Discover"
+  },
+  "stats": {
+    "projects": "Projects Delivered",
+    "clients": "Satisfied Clients",
+    "years": "Years of Experience",
+    "experts": "Dedicated Experts"
+  },
+  "about": {
+    "tag": "About",
+    "title": "Technological innovation driving African development",
+    "text": "AllihTech is a Chadian technology company founded on the belief that Africa deserves world-class digital solutions. We combine local expertise with international standards to deliver projects that permanently transform organizations.",
+    "values": {
+      "excellence": "Excellence",
+      "innovation": "Innovation",
+      "trust": "Trust",
+      "local": "Local Roots"
+    }
+  },
+  "services": {
+    "tag": "Our Services",
+    "title": "Solutions tailored to every need",
+    "subtitle": "From strategy to execution, we cover your entire digital transformation journey.",
+    "digital": { "title": "Digital Transformation", "desc": "Strategic support to modernize your processes and information systems." },
+    "dev": { "title": "Software Development", "desc": "Custom web and mobile applications built with the latest technologies." },
+    "training": { "title": "Training Programs", "desc": "Certified training programs to develop your teams' digital skills." },
+    "consulting": { "title": "Strategic Consulting", "desc": "Audit, analysis and recommendations to optimize your information system." },
+    "cloud": { "title": "Cloud Infrastructure", "desc": "Deployment, migration and management of secure, high-performance cloud infrastructure." },
+    "ai": { "title": "Artificial Intelligence", "desc": "AI solution integration to automate and optimize your business operations." },
+    "view_all": "View all services"
+  },
+  "ceo": {
+    "tag": "Leader's Vision",
+    "quote": "Our mission is to harness technology in service of African progress. Every solution we deliver contributes to building a more competitive, efficient, and globally connected Chad.",
+    "name": "Hilla Prince BAMBE",
+    "role": "CEO & President — AllihTech"
+  },
+  "team": {
+    "tag": "Our Team",
+    "title": "The experts behind AllihTech",
+    "subtitle": "A multidisciplinary team united around a shared vision: technological excellence in service of Africa.",
+    "members": {
+      "hilla": { "name": "Hilla Prince BAMBE", "role": "CEO / President" },
+      "alexandre": { "name": "Alexandre Ndeyina", "role": "Commercial Director" },
+      "ziakraba": { "name": "Ignagali Ziakraba K.", "role": "R&D & Innovation" },
+      "feli": { "name": "Félicité Ndob", "role": "Communication" },
+      "dieuleveut": { "name": "Aldodé Dieu Le Veut", "role": "Finance" },
+      "emmanuel": { "name": "Emmanuel Hégire", "role": "Partnerships" },
+      "gloire": { "name": "Bélem Gloire", "role": "Product Manager" }
+    }
+  },
+  "partners": {
+    "tag": "Partners",
+    "title": "A trusted ecosystem",
+    "subtitle": "We collaborate with local and international players to offer you the best solutions.",
+    "view_all": "View all partners",
+    "types": {
+      "tech": "Technology Partners",
+      "institutional": "Institutional Partners",
+      "academic": "Academic Partners"
+    }
+  },
+  "cta": {
+    "title": "Ready to transform your organization?",
+    "subtitle": "Let's discuss your needs and build the solution that fits you.",
+    "btn_contact": "Start a project",
+    "btn_discover": "Discover our services",
+    "phone": "+235 60 92 87 48",
+    "email": "contact@allihtech.com"
+  },
+  "public_page": {
+    "hero_title": "Partner in modernizing the Chadian State",
+    "hero_subtitle": "AllihTech supports public institutions in their digital transformation with solutions compliant with international standards.",
+    "vision_tag": "Vision & Positioning",
+    "vision_title": "Why choose AllihTech for the public sector?",
+    "methodology_tag": "Methodology",
+    "methodology_title": "A structured 4-phase approach",
+    "impact_tag": "Impact",
+    "impact_title": "Why AllihTech?",
+    "financial_tag": "Financial Model",
+    "financial_title": "Transparency and budget control",
+    "phases": {
+      "audit": { "title": "Audit & Diagnosis", "desc": "Comprehensive analysis of the existing situation, identification of improvement areas and priority definition." },
+      "design": { "title": "Design", "desc": "Solution architecture, technology choices, wireframing and stakeholder validation." },
+      "deploy": { "title": "Deployment", "desc": "Delivery in agile sprints, rigorous testing and progressive production launch with support." },
+      "support": { "title": "Support & Evolution", "desc": "Preventive maintenance, ongoing team training and planned functional evolutions." }
+    }
+  },
+  "private_page": {
+    "hero_title": "Accelerate your business growth",
+    "hero_subtitle": "Custom digital solutions for SMEs, large enterprises and startups looking to gain competitiveness.",
+    "solutions_tag": "Enterprise Solutions",
+    "solutions_title": "Everything your business needs",
+    "process_tag": "Our Process",
+    "process_title": "5 steps to your success",
+    "pricing_tag": "Pricing",
+    "pricing_title": "Offers tailored to your size",
+    "tech_tag": "Tech Stack",
+    "tech_title": "Cutting-edge technologies",
+    "results_tag": "Results",
+    "results_title": "What our clients achieve",
+    "partnership_tag": "Partnerships",
+    "partnership_title": "Become an AllihTech partner",
+    "pricing_plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "From 500,000 FCFA",
+        "features": ["Professional website", "Basic mobile app", "3-month maintenance", "Email support"]
+      },
+      "pro": {
+        "name": "Pro Max",
+        "badge": "Recommended",
+        "price": "From 2,000,000 FCFA",
+        "features": ["Custom web/mobile app", "Secure REST API", "Analytics dashboard", "Team training", "12-month maintenance", "Priority support"]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom quote",
+        "features": ["Fully custom solution", "Dedicated cloud infrastructure", "AI integration", "Dedicated team", "Guaranteed SLA", "Strategic support"]
+      }
+    }
+  },
+  "formations_page": {
+    "hero_title": "Develop your teams' digital skills",
+    "hero_subtitle": "Certified training programs designed by experts, adapted to the realities of the African market.",
+    "tag": "Our Training",
+    "title": "Training Catalogue",
+    "courses": {
+      "web": { "title": "Full Stack Web Development", "duration": "3 months", "level": "Beginner to Advanced", "desc": "Master React, Django and REST APIs to build modern web applications." },
+      "mobile": { "title": "Flutter Mobile Development", "duration": "2 months", "level": "Intermediate", "desc": "Build iOS and Android apps with Flutter and Dart." },
+      "data": { "title": "Data Science & AI", "duration": "4 months", "level": "Intermediate", "desc": "Python, Machine Learning and deploying AI models in production." },
+      "cloud": { "title": "Cloud & DevOps", "duration": "2 months", "level": "Advanced", "desc": "AWS, Docker, Kubernetes and CI/CD pipelines for secure deployments." },
+      "digital": { "title": "Digital Marketing", "duration": "1 month", "level": "All levels", "desc": "Digital strategy, SEO, social media and analytics to boost your visibility." },
+      "management": { "title": "Agile Project Management", "duration": "3 weeks", "level": "All levels", "desc": "Scrum, Kanban and modern tools to manage your projects efficiently." }
+    }
+  },
+  "blog_page": {
+    "tag": "Blog",
+    "title": "Insights & Expertise",
+    "subtitle": "Articles, analyses and experience reports on digital transformation in Africa.",
+    "read_more": "Read more",
+    "categories": { "all": "All", "tech": "Technology", "strategy": "Strategy", "case_study": "Case Study" }
+  },
+  "actualites_page": {
+    "tag": "News",
+    "title": "Latest AllihTech News",
+    "subtitle": "Follow our projects, partnerships and events.",
+    "read_more": "Learn more"
+  },
+  "contact_page": {
+    "tag": "Contact",
+    "title": "Let's talk about your project",
+    "subtitle": "Our team is available to answer all your questions and support you in your projects.",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone (optional)",
+      "organization": "Organization (optional)",
+      "service": "Desired service",
+      "message": "Your message",
+      "submit": "Send message",
+      "sending": "Sending…",
+      "success": "Message sent! We will reply within 24 hours.",
+      "error": "An error occurred. Please try again."
+    },
+    "info": {
+      "address": "N'Djamena, Chad",
+      "phone": "+235 60 92 87 48",
+      "email": "contact@allihtech.com",
+      "hours": "Mon–Fri: 8am–6pm"
+    }
+  },
+  "partenaires_page": {
+    "tag": "Partners",
+    "title": "Our partner ecosystem",
+    "subtitle": "Strategic alliances to offer you the best solutions.",
+    "become_partner": "Become a partner",
+    "types": {
+      "tech": { "title": "Technology Partners", "desc": "Software and cloud solution providers." },
+      "institutional": { "title": "Institutional Partners", "desc": "Public organizations and partner NGOs." },
+      "academic": { "title": "Academic Partners", "desc": "Universities and training centers." },
+      "strategic": { "title": "Strategic Partners", "desc": "Consulting firms and system integrators." }
+    }
+  },
+  "privacy_page": { "title": "Privacy Policy", "last_updated": "Last updated: July 2024" },
+  "terms_page": { "title": "Terms of Service", "last_updated": "Last updated: July 2024" },
+  "location_page": {
+    "tag": "Location",
+    "title": "Find Us",
+    "subtitle": "AllihTech is based in N'Djamena, the capital of Chad.",
+    "address": "N'Djamena, Republic of Chad"
+  },
+  "footer": {
+    "tagline": "Digital innovation in service of Africa.",
+    "company": "Company",
+    "legal": "Legal",
+    "follow_us": "Follow us",
+    "privacy": "Privacy",
+    "terms": "Terms of Use",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "loading": "Loading…",
+    "error_404": "Page not found",
+    "back_home": "Back to home",
+    "learn_more": "Learn more",
+    "contact_us": "Contact us",
+    "discover": "Discover",
+    "our_services": "Our Services"
+  }
+}
